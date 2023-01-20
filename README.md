@@ -1,5 +1,7 @@
+# hello 
+
 <div align="center">
-<img width="100%" height = "250px" src="https://raw.githubusercontent.com/kombton/kombton/main/banner.png" alt="cover" href = 'https://www.youtube.com/channel/UCTqVPjBUrZq9L5zxBHVmRJA'>/>
+<img width="100%" height = "250px" src="https://raw.githubusercontent.com/kombton/kombton/main/banner.png" alt="cover"  />
 </div>
 
 <h1>kombton</h1> 
