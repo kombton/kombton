@@ -1,16 +1,17 @@
-### Hi there 👋
+<div align="center">
+<img width="100%" height = "250px" src="https://raw.githubusercontent.com/kombton/kombton/main/Banner.png" alt="cover" />
+</div>
 
-<!--
-**kombton/kombton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1>kombton</h1>
 
-Here are some ideas to get you started:
+</p>
+<div size='20px'> kombton 
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2> bio</h2>>
+
+<h2> sub</h2>
+<a href = 'https://www.youtube.com/channel/UCTqVPjBUrZq9L5zxBHVmRJA'></a> 
+<a href = 'https://www.github.com/https://github.com/kombton'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
+
+<br>
