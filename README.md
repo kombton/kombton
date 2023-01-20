@@ -8,8 +8,6 @@
 <div size='20px'> kombton 
 </div>
 
-<h2> bio</h2>>
-
 <h2> sub</h2>
 <a href = 'https://www.youtube.com/channel/UCTqVPjBUrZq9L5zxBHVmRJA'></a> 
 <a href = 'https://www.github.com/https://github.com/kombton'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
