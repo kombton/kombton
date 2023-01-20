@@ -9,7 +9,6 @@
 </div>
 
 <h2> sub</h2>
-<a href = 'https://www.youtube.com/channel/UCTqVPjBUrZq9L5zxBHVmRJA'></a> 
-<a href = 'https://www.github.com/https://github.com/kombton'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
+<a href = 'https://www.youtube.com/channel/UCTqVPjBUrZq9L5zxBHVmRJA'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"/></a> 
 
 <br>
